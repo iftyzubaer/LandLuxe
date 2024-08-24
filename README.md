@@ -17,7 +17,7 @@ LandLuxe is a modern real estate platform built using the MERN stack (MongoDB, E
 
 ## Tech Stack
 
-- **Frontend**: React.js, Redux, Tailwind CSS, DaisyUi
+- **Frontend**: React.js, Redux, Tailwind CSS, DaisyUI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens), Firebase
