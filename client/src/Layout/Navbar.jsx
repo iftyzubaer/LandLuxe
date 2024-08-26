@@ -69,9 +69,9 @@ export default function Navbar() {
             />
           </div>
           <div>
-            <ul className="menu menu-horizontal px-1">
+            <ul className="menu menu-horizontal  px-1">
               <li>
-                <Link to="/signin" className="font-bold text-slate-700">
+                <Link to="/signin" className="font-bold btn text-slate-100">
                   Sign In
                 </Link>
               </li>
