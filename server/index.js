@@ -20,12 +20,10 @@ app.listen(5000, () => {
   console.log(`Server is running on port: 5000`);
 });
 
-// const dotenv = require("dotenv");
-// const express = require("express");
+
 // const cors = require("cors");
 // const app = express();
 // const port = process.env.PORT || 5000;
-// dotenv.config();
 
 // const { MongoClient, ServerApiVersion } = require("mongodb");
 // const uri = `${process.env.MONGO}`;
